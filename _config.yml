@@ -14,7 +14,7 @@ description              : &description "Postdoc at York University, Toronto, Ca
 url                      : https://bobchengyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bobchengyang.github.io"
-teaser                   : "56893371.jpg"
+teaser                   : "image-alignment-150x150.jpg" # 56893371.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true

@@ -6,4 +6,4 @@ date: 2020-06-19
 venue: 'arXiv'
 ---
 
-[paper](https://arxiv.org/abs/2006.08816) [code](https://github.com/bobchengyang/SGML)
+[paper](https://arxiv.org/abs/2006.08816) || [code](https://github.com/bobchengyang/SGML)

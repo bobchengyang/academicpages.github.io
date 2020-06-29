@@ -2,7 +2,6 @@
 title: "Signed Graph Metric Learning via Gershgorin Disc Alignment"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-06-19
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2006.08816'

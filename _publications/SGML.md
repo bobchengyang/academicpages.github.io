@@ -1,7 +1,7 @@
 ---
 title: "Signed Graph Metric Learning via Gershgorin Disc Alignment"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/SGML
 date: 2020-06-19
 venue: 'arXiv'
 ---

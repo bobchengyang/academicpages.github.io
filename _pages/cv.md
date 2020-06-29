@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng in Electronic and Electrical Engineering, University of Strathclyde, Glasgow, UK, 2011
+* Ph.D in Electronic and Electrical Engineering, University of Strathclyde, Glasgow, UK, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - Jun 2020: Postdoc
+  * York University, Toronto, Canada
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2017 - Dec 2018: Project Researcher
+  * National Institute of Informatics, Tokyo, Japan
   
 Skills
 ======
